@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "osu-parsers": "^4.1.7",
+    "osu-sr-calculator": "^2.0.3"
+  }
+}
